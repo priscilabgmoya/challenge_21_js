@@ -4,7 +4,6 @@
    - si la vida esta entre 21 y 50 que el personaje se ponga en modo defensivo.
    - si la vida esta entre 51 y 80 que el personaje se ponga en modo moderado.
    - si la vida esta entre 81 y 100 que el personaje se ponga en modo ofensivo.
-
   a) resolver sin conectores lógicos
 
  */
@@ -40,3 +39,4 @@ if(vida_personaje >0 ){
     alert('ingrese una vida correcta');
 
 }
+
